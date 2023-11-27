@@ -5,18 +5,12 @@
   
   
 <h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
 *   Anime Ranking
 *   Live Chat
 *   Short Info about the Anime inself
 *   Scene Informations
 *   Newest Anime Informations
 *   Support Discord
-
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
