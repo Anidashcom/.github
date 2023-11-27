@@ -25,7 +25,8 @@
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the AniDash - GmbH
+This project is licensed under the AniDash - GmbH<br>
+Imprint following soon!
 
 <h2>💖Like my work?</h2>
 
