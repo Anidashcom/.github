@@ -29,4 +29,4 @@ This project is licensed under the AniDash - GmbH
 
 <h2>💖Like my work?</h2>
 
-Support me by signing up on my project website (https://anidash.com) or by joining my Discord server: (https://discord.gg/Z5V5R4rF8Z).
+Support me by signing up on my project website (https://anidash.com)<br>or by joining my Discord server: (https://discord.gg/Z5V5R4rF8Z).
